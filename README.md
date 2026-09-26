@@ -31,6 +31,8 @@ All conversions run on a background thread, so the UI never freezes.
 
 ![Conversion result](docs/screenshots/02-conversion-result.png)
 
+![Conversion result](docs/screenshots/2.1-document-converter.png)
+
 <!-- SCREENSHOT 3 — Click the "PDF Tools" tab, try Merge or Split.
      Capture the PDF Tools panel. -->
 
