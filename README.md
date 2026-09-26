@@ -50,7 +50,8 @@ Python 3.9+. No internet connection needed — everything runs locally.
 ## Installation
 
 ```bash
-cd MarkdownConverter
+git clone https://github.com/alihassanazad8245/File-Converter-Studio.git
+cd File-Converter-Studio
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -70,7 +71,7 @@ no display needed).
 ## Project structure
 
 ```
-MarkdownConverter/
+File-Converter-Studio/
 ├── main.py
 ├── requirements.txt
 ├── requirements-dev.txt
