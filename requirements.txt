@@ -1,0 +1,14 @@
+# File Converter Studio - runtime dependencies
+# Install with:  pip install -r requirements.txt
+
+PySide6>=6.6,<7.0          # desktop GUI framework (native file dialogs, drag & drop, threading)
+Markdown>=3.5,<4.0          # Markdown -> HTML rendering
+Pygments>=2.16,<3.0         # syntax highlighting for code blocks
+python-docx>=1.1,<2.0       # DOCX generation
+xhtml2pdf>=0.2.16,<0.3      # PDF generation (pure Python - no system libraries required)
+beautifulsoup4>=4.12,<5.0   # HTML tree walking (preview, DOCX, JSON, quality checks)
+mammoth>=1.7,<2.0            # Word (.docx) -> HTML, for Document Converter input
+pypdf>=5.0,<6.0               # PDF merge / split / remove pages / compress
+PyMuPDF>=1.24,<2.0             # PDF -> image rendering
+pdf2docx>=0.5,<0.6               # PDF -> Word
+Pillow>=10.0,<13.0                 # image format conversion, images -> PDF
