@@ -3,7 +3,7 @@
 A desktop app (PySide6) for converting documents, PDFs, and images — all
 running entirely offline on your machine.
 
-## Main Application Interface
+### Main Application Interface
 <!-- SCREENSHOT 1 — Run: python main.py
      Capture the Markdown Editor tab (banner/empty state or a loaded file). -->
 
