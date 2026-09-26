@@ -27,21 +27,22 @@ combine several images into one PDF.
 
 All conversions run on a background thread, so the UI never freezes.
 
+### Conversion Result
 <!-- SCREENSHOT 2 — Run: python main.py --start, or just load a file in the
      Markdown Editor and click Convert. Capture the result dialog. -->
-
 ![Conversion result](docs/screenshots/02-conversion-result.png)
 
+### Document Converter
 ![Conversion result](docs/screenshots/2.1-document-converter.png)
 
+### PDF Tools
 <!-- SCREENSHOT 3 — Click the "PDF Tools" tab, try Merge or Split.
      Capture the PDF Tools panel. -->
-
 ![PDF Tools](docs/screenshots/03-pdf-tools.png)
 
+### Image Converter
 <!-- SCREENSHOT 4 — Click the "Image Converter" tab.
      Capture the Image Converter panel. -->
-
 ![Image Converter](docs/screenshots/04-image-converter.png)
 
 ---
